@@ -126,7 +126,7 @@ footer {
     letter-spacing: 2px;
 }
 
-@media screen and (min-width: 375px){
+@media screen and (min-width: 1440px){
 
     body {
         background: url('/images/bg-pattern-bottom.svg') no-repeat 150% -50% border-box,
